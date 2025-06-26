@@ -3,12 +3,12 @@ entries:
   8db:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-26T12:46:07.493725201+05:30"
+    created: "2025-06-26T15:50:47.740455281+05:30"
     description: A Helm chart for Kubernetes
-    digest: eec0d6861d5594566fc96a03b6399e6656b3974f5f2ce79b5cbfc660de6eee8d
+    digest: cc289172d40d8dc38139b03d524e37789d9583cc2cb0a332f754795f79bd8f43
     name: 8db
     type: application
     urls:
     - https://surya-abs.github.io/veo3/8db-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-26T12:46:07.493211542+05:30"
+generated: "2025-06-26T15:50:47.739290436+05:30"
